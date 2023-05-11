@@ -1,0 +1,9 @@
+{
+    "dependencies": [
+        "cpr",
+        "cryptopp",
+        "nlohmann-json",
+        "sqlite3",
+        "libzippp"
+    ]
+}
